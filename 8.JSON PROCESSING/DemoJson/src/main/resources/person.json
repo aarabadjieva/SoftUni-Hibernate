@@ -1,0 +1,19 @@
+{
+  "firstName": "Kosta",
+  "lastName": "Conev",
+  "address": {
+    "country": "Bulgaria",
+    "city": "Varna"
+  },
+  "phoneNumbers": [
+    {
+      "number": "1234"
+    },
+    {
+      "number": "2345"
+    },
+    {
+      "number": "3456"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "Project Name": "HealthCare",
+    "Description": "Pharmacy web app",
+    "Is Finished": true,
+    "Payment": 10000.00,
+    "Start Date": "2017-07-12",
+    "Company": {
+      "Name": "Phoenix"
+    }
+  },
+  {
+    "Project Name": "MMA",
+    "Description": "Mixed martial arts club web site",
+    "Is Finished": true,
+    "Payment": 7000.00,
+    "Start Date": "2018-09-21",
+    "Company": {
+      "Name": "Vallor"
+    }
+  },
+  {
+    "Project Name": "DJApp",
+    "Description": "Sound system",
+    "Is Finished": false,
+    "Payment": 25000.00,
+    "Start Date": "2017-08-13",
+    "Company": {
+      "Name": "MusicCo"
+    }
+  },
+  {
+    "Project Name": "Intel",
+    "Description": "Intel new processor",
+    "Is Finished": true,
+    "Payment": 1500000.00,
+    "Start Date": "2016-01-13",
+    "Company": {
+      "Name": "Tech"
+    }
+  },
+  {
+    "Project Name": "Invest",
+    "Description": "Credit web site",
+    "Is Finished": false,
+    "Payment": 15000.00,
+    "Start Date": "2019-04-01",
+    "Company": {
+      "Name": "FutureInvests"
+    }
+  },
+  {
+    "Project Name": "Furniture",
+    "Description": "Furniture magazine",
+    "Is Finished": true,
+    "Payment": 30000.00,
+    "Start Date": "2015-10-21",
+    "Company": {
+      "Name": "DesignGroup"
+    }
+  },
+  {
+    "Project Name": "Dolby",
+    "Description": "HeadSet sound design",
+    "Is Finished": false,
+    "Payment": 2490000.00,
+    "Start Date": "2018-12-27",
+    "Company": {
+      "Name": "Technologies"
+    }
+  },
+  {
+    "Project Name": "Robocop",
+    "Description": "AI robots",
+    "Is Finished": false,
+    "Payment": 99999.00,
+    "Start Date": "2019-05-31",
+    "Company": {
+      "Name": "MavenLtd"
+    }
+  },
+  {
+    "Project Name": "GitBuh_Project",
+    "Description": "GitBuh repositories improvement",
+    "Is Finished": true,
+    "Payment": 47899.00,
+    "Start Date": "2017-02-05",
+    "Company": {
+      "Name": "Gitbuh"
+    }
+  },
+  {
+    "Project Name": "HoodWars",
+    "Description": "Online fighting game",
+    "Is Finished": true,
+    "Payment": 650000.00,
+    "Start Date": "2018-06-11",
+    "Company": {
+      "Name": "Vallor"
+    }
+  },
+  {
+    "Project Name": "AMD",
+    "Description": "Graphic card",
+    "Is Finished": true,
+    "Payment": 5689900.00,
+    "Start Date": "2015-09-16",
+    "Company": {
+      "Name": "Tech"
+    }
+  },
+  {
+    "Project Name": "Apocalypse",
+    "Description": "Zombie antidote",
+    "Is Finished": false,
+    "Payment": 89000000.00,
+    "Start Date": "2012-12-12",
+    "Company": {
+      "Name": "Phoenix"
+    }
+  }
+]
